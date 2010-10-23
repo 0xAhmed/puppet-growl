@@ -10,6 +10,7 @@
 1. ``` sudo gem install eventmachine ruby-growl em-dir-watcher ```
 2. Edit the "dir" variable in puppet-growl.rb with the full path of your puppet manifests.
 3. Make sure to allow the following in Growl preferences: Listen for incoming connections, allow remote application registration.
+4. Run the script: ```sudo ruby puppet-growl.rb```
 
 ### TODO
 * Supporting libnotify under Linux.
