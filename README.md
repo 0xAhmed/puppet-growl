@@ -1,3 +1,5 @@
+# Puppet-growl
+
 ## **Automatic syntax checking for your puppet manifests, instant notifications to your desktop using Growl**
 
 * **Puppet-growl** is a ruby script that watches if there is any changes to your puppet manifests (by monitoring .pp files) and sends notifications to your desktop if the puppet manifest you just created/edited passes the syntax checks or not.
